@@ -393,9 +393,6 @@ export default function ExecutiveDashboardPage({
               <h1 className="mt-1 text-3xl font-extrabold text-gray-900">
                 {title}
               </h1>
-              <p className="mt-2 text-sm text-gray-500">
-                SQDCP • Données statiques • Interface moderne et user friendly
-              </p>
             </div>
 
             <div className="rounded-2xl bg-[#790022] px-4 py-3 text-white shadow-md">
