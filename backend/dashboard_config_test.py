@@ -1,0 +1,9 @@
+DEBUG = True
+DB_NAME = "db_erpl"
+DB_USER = "postgres"
+DB_PASSWORD = "Rvfdjv!15dieS"
+DB_HOST = "10.197.74.182"
+DB_PORT = "5432"
+DASHBOARD_FRONT_API_URL = "https://10.197.74.181:51008"
+EADMIN_BACK_API_URL = "https://framb-eadmin-test:55556/api"
+SECRET_KEY = 'django-insecure-p+8^c&8%ccajgauei3=h=ee#biq#9#q=euwa#47um+t$5%6=#o'
